@@ -1,8 +1,8 @@
 # Netflix Subscription Analysis (2021 - 2023)
-Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dashboard can be found [here]().
+Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/johanna.schmidle/viz/NetflixSubscriptionsDash/Dashboard1?publish=yes).
   
 <p align="center">
-    <img src="" alt="Tableau Dashboard" width="900">
+    <img src="NetflixSubscriptionsSC.png" alt="Tableau Dashboard" width="900">
 </p>
 
 ## Motivation
