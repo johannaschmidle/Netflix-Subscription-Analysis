@@ -29,4 +29,7 @@ Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dash
   
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/NUFORC/ufo-sightings](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)
+
 ## Technologies
+- SQL
+- Tableau
