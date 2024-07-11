@@ -9,7 +9,7 @@ Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dash
 
 ## Task List
 - Clean data in SQL ([NetflixSubsCleaning.sql](https://github.com/johannaschmidle/Netflix-Subscription-Analysis/blob/main/NetflixSubsCleaning.sql))
-- Create an interactive dashboard ([Tableau Dashboard]((https://public.tableau.com/app/profile/johanna.schmidle/viz/NetflixSubscriptionsDash/Dashboard1?publish=yes)))
+- Create an interactive dashboard ([Tableau Dashboard](https://public.tableau.com/app/profile/johanna.schmidle/viz/NetflixSubscriptionsDash/Dashboard1?publish=yes))
 
 ## Metrics and Dimensions
 - **Total Subscriptions:** total subscription sales from all plan types
