@@ -6,6 +6,7 @@ Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dash
 </p>
 
 ## Motivation
+**Goal:** Market Analysis. Understanding Netflix subscription trends can provide valuable insights into market behavior, helping to predict future industry patterns and consumer preferences.
 
 ## Task List
 - Clean data in SQL ([NetflixSubsCleaning.sql](https://github.com/johannaschmidle/Netflix-Subscription-Analysis/blob/main/NetflixSubsCleaning.sql))
@@ -18,15 +19,21 @@ Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dash
 - **Plan Device:** Device on which the subscription will be used. Laptop, Smart TV, Smartphone, and Tablet
 
 ## Summary of Insights
-#### Total Subscriptions:
-- txt
 #### Plan Type:
-- txt
-#### Plan Period:
-- txt
-#### Country:
-- txt
-  
+- Basic plans are the most popular plan.
+- Near the end of June 2022 all plan types saw a significant spike and the basic plan type hit a high of $811.00. These spikes significantly decreased until the end of October 2022 when all plan types spiked again, and Premium and Standard plan types hit highs of $576.00 and $727.00 respectively.
+- All plan types seemed to drop off after this second spike completely.
+#### Plan Country:
+- Spain and the US are the top two countries with subscription totals of $5,664 and $5,662 respectively.
+- Most countries followed the same spike and decrease pattern as the plan types (spikes in June 2022 and late October 2022) except France which hit its high in August 2022, and Germany which hit its high at the beginning of October 2022. 
+#### Plan Device:
+- All four devices are evenly popular for Netflix Subscriptions, each getting a total of around $7,700.
+- The devices followed the same spike and decrease pattern as the other two graphs (spikes in June 2022 and late October 2022) with Smartphones and Tablets peaking in June, and Smart TVs and Laptops peaking in October.
+
+## Recommended Next Steps
+- Investigate why the people aren't joining in the months between June and October
+- Certain countries make up larger percentages of new subscriptions during different times of year, investigate why this may be the case.
+
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)
 
