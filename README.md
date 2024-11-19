@@ -18,7 +18,7 @@ The SQL queries used to clean, organize, and prepare data for analysis can be fo
 ## Data Structure
 The dataset provides a snapshot of a sample Netflix userbase, showcasing various aspects of user subscriptions, revenue, account details, and activity.
 <p align="center">
-    <img src="NetflixERD.png" alt="Netflix ERD" width="700">
+    <img src="NetflixERD.png" alt="Netflix ERD" width="350">
 </p>
 
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)
