@@ -6,7 +6,6 @@ Netflix, founded in 1997, is a global streaming platform offering a wide range o
 The company has extensive data on user preferences, viewing habits, and subscription trends that has yet to be fully leveraged. This project analyzes Netflix subscription trends to provide valuable insights into market behavior, helping to predict future industry patterns and consumer preferences.
 
 ### Insights and Recommendations Are Provided in the Following Key Areas:
-- **Total Subscriptions:** Total subscription sales from all plan types.
 - **Plan Type:** Basic, Premium, and Standard.
 - **Country:** Australia, Brazil, Canada, France, Germany, Italy, Mexico, Spain, UK, and US.
 - **Plan Device:** Device on which the subscription will be used — Laptop, Smart TV, Smartphone, and Tablet.
