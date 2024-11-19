@@ -30,9 +30,15 @@ Analyzing Netflix subscription trends from 2021 - 2023. Interactive Tableau dash
 - All four devices are evenly popular for Netflix Subscriptions, each getting a total of around $7,700.
 - The devices followed the same spike and decrease pattern as the other two graphs (spikes in June 2022 and late October 2022) with Smartphones and Tablets peaking in June, and Smart TVs and Laptops peaking in October.
 
-## Recommended Next Steps
-- Investigate why the people aren't joining in the months between June and October
-- Certain countries make up larger percentages of new subscriptions during different times of year, investigate why this may be the case.
+## Recommended Next Steps For Company
+#### Budget Recommendations
+- **Allocate more budget for localized content and promotions** in Spain and the US, given their strong subscription performance.
+- **Increase the budget for marketing efforts and promotions** during the months of June to October, as these months had a significant dip in subscriptions.
+#### Device-Related Recommendations
+- **Ensure the quality of the Netflix app is optimized** across all devices, particularly Smartphones and Tablets, since they appear to lead subscriptions during the June peak.
+- **Experiment with bundling strategies**, such as offering discounts for multi-device users.
+#### Other Recommendations
+- **Analyze competitors' activities during June and October** to identify any overlaps with Netflix’s trends and adjust strategies accordingly.
 
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset)
